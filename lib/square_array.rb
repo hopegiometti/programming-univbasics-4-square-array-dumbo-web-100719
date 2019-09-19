@@ -5,5 +5,5 @@ def square_array(array)
     array[counter] ** 2
     counter +=1
   end
-  squared_array(array)
+  square_array(array)
 end
